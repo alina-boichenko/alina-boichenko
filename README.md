@@ -26,22 +26,22 @@
 <ul>
   <li>
     <a href="https://github.com/alina-boichenko/restaurant_kitchen_service">Restaurant kitchen service</a><br/>
-    <p>A Django project to manage the operation of a restaurant and improve communication between chefs in the kitchen. Each chef in your restaurant has their own profile, which contains information about the chef and the dishes he/she prepares.</i>
+    <p>A restaurant management system to improve communication between chefs in the kitchen.It enables restaurants to register their chefs, create a comprehensive menu with detailed recipes, and assign responsible individuals for each dish preparation.</i>
   </p>
   
   <li>
     <a href="https://github.com/alina-boichenko/library-service">Library Service</a><br/>
-    <p>This is online management system for book borrowings. The system optimize the work of library administrators and will make the service much more user-friendly.</p>
+    <p>An online library management system designed to complement offline libraries, offering a range of features for seamless user experiences. Users can register with the library, browse the catalog, and check out books for home use. The system integrates Stripe for easy online payments, allowing patrons to pay fines or fees conveniently. Additionally, Telegram notifications keep users informed about due dates, holds, and other important updates, enhancing communication between the library and its members..</p>
   </li>
   
   <li>
     <a href="https://github.com/alina-boichenko/social-media-api">Social Media API</a><br/>
-    <p>RESTful API for a social media platform. The API allow users to create profiles, follow other users, create and retrieve posts, manage comments, and perform basic social media actions.</p>
+    <p>Implemented next functional: users can create profiles, connect with friends, share text content, engage in discussions, follow pages of interest and receive personalized news and updates.</p>
   </li>
   
   <li>
     <a href="https://github.com/alina-boichenko/to-do-list">TODO list</a><br/>
-    <p>TODO list - it is a list of things you need to do or want to do. With this site, you can easily control and not forget about your assignments.</p>
+    <p>A TODO list application is designed to help users organize tasks and manage their daily activities effectively. Key features include the ability to create, edit, and prioritize tasks, set due dates and reminders, and categorize items into different lists or projects. Users can mark tasks as completed and delete tasks they no longer need.</p>
   </li>
 </ul>
 
