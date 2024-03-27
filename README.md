@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Alina, Python Developer with experience in Web Development 1+ year. I'm from <img src="https://cdn-icons-png.flaticon.com/512/552/552041.png" width="13"/> <b>Kyiv, Ukraine</b></p>
+<p>Welcome to my page! </br> I'm Alina, Python Developer with experience in Web Development 1+ year. I'm originally from <img src="https://cdn-icons-png.flaticon.com/512/552/552041.png" width="13"/> Kyiv, Ukraine and moved to <img src="https://flagemoji.net/img/flags/canada-flag.png" width="24"/> Vancouver, Canada. </p>
 
-🔎 I’m currently looking for a job as a Python Developer, I want to improve my skills on a real project. 
+🔎 I’m currently looking for a job as a Data Analyst or Python Developer.
 
 <h3>Things I code with</h3> 
 <p>
